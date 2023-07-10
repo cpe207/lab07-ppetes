@@ -15,7 +15,7 @@ firstNameInput.onkeyup = () => {
   firstNameInput.classList.remove("is-valid");
   firstNameInput.classList.remove("is-invalid");
 };
-1dff;
+
 LastNameInput.onkeyup = () => {
   LastNameInput.classList.remove("is-valid");
   LastNameInput.classList.remove("is-invalid");
